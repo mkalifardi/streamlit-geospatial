@@ -8,7 +8,6 @@ import geemap.colormaps as cm
 import geemap.foliumap as geemap
 from datetime import date
 from .rois import *
-ee.Initialize()
 
 
 @st.cache
